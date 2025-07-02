@@ -1,0 +1,206 @@
+[
+  {
+    "number": 1,
+    "question": "Observation of “Rhumann’s purple” is a confirmatory test for the presence of:",
+    "options": [
+      "(1) Starch",
+      "(2) Reducing sugar",
+      "(3) Cupric ion",
+      "(4) Protein"
+    ],
+    "solution": "Rhumann’s purple is ninhydrin. It is used to detect alpha-amino acid or carboxylic acid. When reacting with the free amines (proteins), a deep blue or purple color known as Ruhemann’s purple is produced. So observation of “Rhumann’s purple” is a confirmatory test for the presence of protein.\n\nHence option (4) is the answer.",
+    "answer": "(4)"
+  },
+  {
+    "number": 2,
+    "question": "Synthesis of each molecule of glucose in photosynthesis involves:-",
+    "options": [
+      "(1) 18 molecules of ATP",
+      "(2) 10 molecules of ATP",
+      "(3) 8 molecules of ATP",
+      "(4) 6 molecules of ATP"
+    ],
+    "solution": "12H2O + 12 NADP + 18 ADP → 6O2 + 18 ATP + 12 NADPH (light reaction)\n6CO2 + 12 NADPH + 18 ATP → C6H12O6 + 12 NADP + 18 ADP + 6H2O (dark reaction)\n6CO2 + 6H2O → C6H12O6 + 6O2 (Net reaction)\n\n18 molecules of ATP is involved in the synthesis of each molecule of glucose in photosynthesis.\n\nHence option (1) is the answer.",
+    "answer": "(1)"
+  },
+  {
+    "number": 3,
+    "question": "Accumulation of which of the following molecules in the muscles occurs as a result of vigorous exercise:-",
+    "options": [
+      "(1) Pyruvic acid",
+      "(2) L-lactic acid",
+      "(3) Glycogen",
+      "(4) Glucose"
+    ],
+    "solution": "As a result of vigorous exercise, the accumulation of L-lactic acid in the muscles happens. This is because of anaerobic respiration.\n\nHence option (2) is the answer.",
+    "answer": "(2)"
+  },
+  {
+    "number": 4,
+    "question": "Which of the vitamins given below is water-soluble?",
+    "options": [
+      "(1) Vitamin E",
+      "(2) Vitamin K",
+      "(3) Vitamin C",
+      "(4) Vitamin D"
+    ],
+    "solution": "Vitamin C is a water-soluble vitamin. It is also called ascorbic acid.\n\nHence option (3) is the answer.",
+    "answer": "(3)"
+  },
+  {
+    "number": 5,
+    "question": "Biuret test is not given by:-",
+    "options": [
+      "(1) proteins",
+      "(2) carbohydrates",
+      "(3) polypeptides",
+      "(4) urea"
+    ],
+    "solution": "Biuret test is given by an amide linkage. It is present in proteins, polypeptides and urea. It is not present in carbohydrates.\n\nHence option (2) is the answer.",
+    "answer": "(2)"
+  },
+  {
+    "number": 6,
+    "question": "RNA is different from DNA because RNA contains",
+    "options": [
+      "(1) ribose sugar and thymine",
+      "(2) ribose sugar and uracil",
+      "(3) deoxyribose sugar and thymine",
+      "(4) deoxyribose sugar and uracil"
+    ],
+    "solution": "RNA is different from DNA because RNA contains ribose sugar and uracil base.\n\nHence option (2) is the answer.",
+    "answer": "(2)"
+  },
+  {
+    "number": 7,
+    "question": "Which base is present in RNA but not in DNA?",
+    "options": [
+      "(1) Uracil",
+      "(2) Thymine",
+      "(3) Guanine",
+      "(4) Cytosine"
+    ],
+    "solution": "Uracil is present in RNA, but not present in DNA.\n\nHence option (1) is the answer.",
+    "answer": "(1)"
+  },
+  {
+    "number": 8,
+    "question": "The term anomers of glucose refer to",
+    "options": [
+      "(1) isomers of glucose that differ in configurations at carbons one and four(C-1 and C-4)",
+      "(2) a mixture of (D)-glucose and (L)-glucose",
+      "(3) enantiomers of glucose",
+      "(4) isomers of glucose that differ in configuration at carbon one (C-1)"
+    ],
+    "solution": "An anomer is an epimer at the hemiacetal or hemiketal carbon in a cyclic saccharide, an atom called the anomeric carbon. Anomer is an example of a stereoisomer. The carbon atom at position 1 is anomeric.\n\nHence option (4) is the answer.",
+    "answer": "(4)"
+  },
+  {
+    "number": 9,
+    "question": "The pyrimidine bases present in DNA are",
+    "options": [
+      "(1) cytosine and adenine",
+      "(2) cytosine and guanine",
+      "(3) cytosine and thymine",
+      "(4) cytosine and uracil"
+    ],
+    "solution": "The two pyrimidine bases present in DNA are cytosine and thymine\n\nHence option (3) is the answer.",
+    "answer": "(3)"
+  },
+  {
+    "number": 10,
+    "question": "The secondary structure of a protein refers to",
+    "options": [
+      "(1) α-helical backbone",
+      "(2) hydrophobic interactions",
+      "(3) sequence of α-amino acids",
+      "(4) fixed configuration of the polypeptide backbone"
+    ],
+    "solution": "The secondary structure of protein includes α-helical back bond and β-sheet structures.\n\nHence option (1) is the answer.",
+    "answer": "(1)"
+  },
+  {
+    "number": 11,
+    "question": "Which one of the following statements is correct?",
+    "options": [
+      "(1) All amino acids except lysine are optically active",
+      "(2) All amino acids are optically active",
+      "(3) All amino acids except glycine are optically active",
+      "(4) All amino acids except glutamic acids are optically active"
+    ],
+    "solution": "Glycine contains two hydrogen atoms at the alpha carbon.\n\nAll amino acids except glycine are optically active.\n\nHence option (3) is the answer.",
+    "answer": "(3)"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following compounds can be detected by Molisch’s test?",
+    "options": [
+      "(1) Nitrocompounds",
+      "(2) Sugars",
+      "(3) Amines",
+      "(4) Primary alcohols"
+    ],
+    "solution": "Molisch’s test is a test for the presence of carbohydrates. The formation of a purple or a purplish-red ring at the point of contact between the H2SO4 and the analyte + Molisch’s reagent mixture confirms the presence of carbohydrates in the analyte. The two forms of carbohydrates are sugars and starches. So sugars can be detected by Molisch’s test.\n\nHence option (2) is the answer.",
+    "answer": "(2)"
+  },
+  {
+    "number": 13,
+    "question": "The presence or absence of hydroxy group on which carbon atom of sugar differentiates RNA and DNA?",
+    "options": [
+      "(1) 3rd",
+      "(2) 4th",
+      "(3) 1st",
+      "(4) 2nd"
+    ],
+    "solution": "In RNA, ribose is present on second carbon atom. In DNA, deoxy ribose is present on second carbon atom. Thus, the presence or absence of hydroxy group on second carbon atom of sugar differentiates RNA and DNA.\n\nHence option (4) is the answer.",
+    "answer": "(4)"
+  },
+  {
+    "number": 14,
+    "question": "α-D (+)-glucose and β-D(+)-glucose are",
+    "options": [
+      "(1) conformers",
+      "(2) epimers",
+      "(3) anomers",
+      "(4) enantiomers"
+    ],
+    "solution": "α-D (+)-glucose and β-D(+)-glucose are anomers.\n\nHence option (3) is the answer.",
+    "answer": "(3)"
+  },
+  {
+    "number": 15,
+    "question": "Complete hydrolysis of cellulose gives",
+    "options": [
+      "(1) D-ribose",
+      "(2) D-glucose",
+      "(3) L-glucose",
+      "(4) D-fructose"
+    ],
+    "solution": "Complete hydrolysis of cellulose gives D-glucose.\n\n(C6H10O5)n + nH2O → nC6H12O6\n\nHence option (2) is the answer.",
+    "answer": "(2)"
+  },
+  {
+    "number": 16,
+    "question": "The reason for double helical structure of DNA is operation of",
+    "options": [
+      "(1) dipole – dipole interaction",
+      "(2) hydrogen bonding",
+      "(3) electrostatic attractions",
+      "(4) van der Waal’s forces"
+    ],
+    "solution": "Helical structure of DNA is stabilised by hydrogen bonds.\n\nHence option (2) is the answer.",
+    "answer": "(2)"
+  },
+  {
+    "number": 17,
+    "question": "Which one of the following bases is not present in DNA?",
+    "options": [
+      "(1) Thymine",
+      "(2) Quinoline",
+      "(3) Adenine",
+      "(4) Cytosine"
+    ],
+    "solution": "Quinoline is not present in DNA.\n\nHence option (2) is the answer.",
+    "answer": "(2)"
+  }
+]
