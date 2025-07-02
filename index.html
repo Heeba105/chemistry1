@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FAQ Accordion with Options</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    padding: 20px;
+  }
+  .faq-wrapper {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .faq-item {
+    background: #fff;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  .faq-question {
+    width: 100%;
+    text-align: left;
+    padding: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    background: #eee;
+    outline: none;
+  }
+  .faq-answer {
+    padding: 10px 15px;
+    display: none;
+  }
+  .faq-options {
+    margin: 10px 0;
+    padding-left: 20px;
+  }
+  .faq-options li {
+    list-style: disc;
+  }
+</style>
+</head>
+<body>
+
+<div class="faq-wrapper">
+  <h1>CHEMISTRY</h1>
+  <div id="faq-container"></div>
+</div>
+
+<script>
+  fetch('data.json')
+    .then(response => response.json())
+    .then(data => {
+      const container = document.getElementById('faq-container');
+      data.qna.forEach(item => {
+        const faqItem = document.createElement('div');
+        faqItem.className = 'faq-item';
+
+        const questionBtn = document.createElement('button');
+        questionBtn.className = 'faq-question';
+        questionBtn.textContent = item.question;
+        questionBtn.addEventListener('click', () => {
+          answerDiv.style.display = answerDiv.style.display === 'block' ? 'none' : 'block';
+        });
+
+        const answerDiv = document.createElement('div');
+        answerDiv.className = 'faq-answer';
+
+        const optionsList = document.createElement('ul');
+        optionsList.className = 'faq-options';
+        item.options.forEach(opt => {
+          const li = document.createElement('li');
+          li.textContent = opt;
+          optionsList.appendChild(li);
+        });
+
+        const answerPara = document.createElement('div');
+        answerPara.innerHTML = item.answer.map(a => `<p>${a}</p>`).join('');
+
+        answerDiv.appendChild(optionsList);
+        answerDiv.appendChild(answerPara);
+
+        faqItem.appendChild(questionBtn);
+        faqItem.appendChild(answerDiv);
+        container.appendChild(faqItem);
+      });
+    })
+    .catch(error => console.error('Error fetching JSON:', error));
+</script>
+
+</body>
+</html>
